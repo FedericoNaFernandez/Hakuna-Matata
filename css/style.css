@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@700&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+/*Fondo*/
+
+.contenido{
+    background-color: #ffd93d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.pie-pagina{
+    background-color: #4f200d;
+    color:#f6f1e9;
+}
+
+.container-fluid a img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.offcanvas-title img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+
+/*Titulo*/
+.titulo {
+    color:#4f200d;
+    font-family: 'Aoboshi One', serif;
+    font-size: 80px;
+}
+
+/*CONTENIDO*/
+.texto1,.texto2{
+    color:#4f200d;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    padding-top: 60px;
+}
+.texto3 {
+        color:#4f200d;
+        font-family: 'Source Serif Pro', serif;
+        padding-top: 60px;
+        font-size: 20px;
+}
+
+.titulo2 {
+    color: #4f200d;
+    font-family: 'Aoboshi One', serif;
+    font-size: 40px;
+}
+
+.titulo3 {
+    color: #4f200d;
+    font-family: 'Aoboshi One', serif;
+    font-size: 30px;
+}
+
+/*FOOTER*/
+.necesito-ayuda {
+font-family: 'Source Serif Pro', serif;
+}
+.necesito-ayuda a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#ffd93d;
+}
+.medio-pago {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.direccion{
+font-family: 'Source Serif Pro', serif;
+}
+
+/*Menu*/
+
+.comidas-diarias{
+color: #4f200d;
+font-family: 'Aoboshi One', serif;
+font-size: 40px;
+}
+
+/*Contacto*/
+
+.contacto {
+    margin: 80px;
+}
+
+.contacto a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#4f200d;
+    font-family: 'Aoboshi One', serif;
+}
+
+
+.contacto-titulo {
+    color: #4f200d;
+    font-family: 'Aoboshi One', serif;
+    font-size: 40px;
+}
+
+.dudas {
+    text-align: center;
+    margin: 50px;
+    padding-left: 90px;
+}
+.texto4 {
+    color: #4f200d;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.texto5 {
+    color: #4f200d;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 15px;
+    padding-top: 30px;
+
+}
+/*FOTOS*/
+
+.fotos-inicio {
+    margin: 20px;
+}
+
+.fotos-inicio img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    padding-top: 50px ;
+}
+
+.foto-apertura {
+        margin: 20px;
+}
+
+.foto-apertura img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+main i {
+    font-size: 70px;
+}
+
+
+
+
+
+
