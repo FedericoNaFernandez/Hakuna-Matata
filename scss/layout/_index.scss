@@ -1,0 +1,41 @@
+.titulo {
+    color: main-color;
+    font-family: font2;
+    font-size: 40px;
+}
+.texto1,.texto2{
+    color: main-color;
+    font-family: font;
+    font-size: 20px;
+    padding-top: 150px;
+}
+
+.comidas-diarias{
+    color: main-color;
+    font-family: font2;
+    font-size: 30px;
+    }
+.dudas {
+    text-align: center;
+    margin: 50px;
+    padding-left: 90px;
+}
+
+.fotos-inicio {
+    margin: 20px;
+    img {
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+        padding-top: 50px ;
+    }
+}
+main i {
+    font-size: 70px;
+}
+
+    .contenido{
+        background-color: light-color;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }

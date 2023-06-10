@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@700&display=swap');
+
+
+// BASE
+
+@import "base/vars";
+@import "base/resets";
+@import "base/utilities";
+
+//COMPONENTS
+
+@import "components/navbar";
+@import "components/footer";
+
+//layout
+
+@import "layout/index";
+@import "layout/contacto";
+@import "layout/menu";
+@import "layout/productos";
+@import "layout/sobrenosotros";
+
+
+
+
+
