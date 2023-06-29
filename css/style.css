@@ -39,12 +39,14 @@
 .pie-pagina {
   background-color: #4f200d;
   color: #f6f1e9;
+  padding-top: 20px;
 }
 
 .titulo {
   color: #4f200d;
   font-family: "Aoboshi One", serif;
   font-size: 60px;
+  padding-bottom: 50px;
 }
 
 .texto1, .texto2 {
@@ -65,6 +67,7 @@
   color: #4f200d;
   font-family: "Aoboshi One", serif;
   font-size: 40px;
+  padding-top: 50px;
 }
 
 .titulo3 {
@@ -77,6 +80,7 @@
   color: #4f200d;
   font-family: "Aoboshi One", serif;
   font-size: 40px;
+  padding-top: 50px;
 }
 
 .contacto {
@@ -95,12 +99,6 @@
   font-size: 40px;
 }
 
-.dudas {
-  text-align: center;
-  margin: 50px;
-  padding-left: 90px;
-}
-
 .texto4 {
   color: #4f200d;
   font-family: "Source Serif Pro", serif;
@@ -114,23 +112,36 @@
   font-size: 15px;
   padding-top: 30px;
 }
+.texto6 {
+  color: #4f200d;
+  font-family: "Source Serif Pro", serif;
+  padding-top: 60px;
+  font-size: 20px;
+}
+.texto7 {
+  color: #4f200d;
+  font-family: "Source Serif Pro", serif;
+  padding-top: 60px;
+  font-size: 20px;
+  list-style-type:none;
+}
 
 .fotos-inicio {
   margin: 20px;
 }
 .fotos-inicio img {
-  width: 500px;
-  height: 500px;
+  width: 80%;
+  height: auto;
   object-fit: cover;
-  padding-top: 50px;
+  border-radius: 10%;
 }
 
 .foto-apertura {
   margin: 20px;
 }
 .foto-apertura img {
-  width: 500px;
-  height: 500px;
+  width: 100%;
+  height: auto;
   object-fit: cover;
 }
 
@@ -148,6 +159,51 @@ main i {
   background-color: #ffd93d;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+.navbar, .offcanvas {
+  background-color: #4f200d !important;
+}
+
+.nav-item {
+  font-family: "Source Serif Pro", serif;
+}
+
+.mapa{
+  height: 100%;
+  width: 100%;
+}
+
+.carneblanca img {
+  width: 75%;
+  height: 100%;
+  object-fit: cover;
+}
+.carneblanca {
+  padding-top: 10px;
+}
+
+.lentejas img {
+  width: 76%;
+  height: 100%;
+  object-fit: cover;
+}
+.lentejas {
+  padding-top: 10px;
+}
+
+.hamburguesa img {
+  width: 75%;
+  height: 100%;
+  object-fit: cover;
+}
+.hamburguesa {
+  padding-top: 10px;
+}
+
+.carnehorno img {
+  width: 60%;
+  height: 80%;
+  object-fit: cover;
 }
 
 /*# sourceMappingURL=style.css.map */
